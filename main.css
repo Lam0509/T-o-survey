@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    border-bottom: 0.5px dashed lightgrey;
+    padding-top: 2px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+p {
+    padding-top: 12px;
+}
+
+ul {
+    padding-left: 15px;
+    list-style-type: none;
+}
+
+li {
+    padding-top: 15px;
+    line-height: 25px;
+}
+
+select {
+    background-color: #f0f0f0;
+    border-radius: 2px;
+    width: 200px;
+}
+
+label input {
+    margin-right: 10px;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 1000px;
+}
+
+.table, .table th, .table td {
+    border: 1px solid grey;
+}
+
+.table th, .table td {
+    padding: 10px 5px;
+    text-align: center;
+    width: 90px;
+}
+
+.table tr:nth-child(1) {
+    background-color: lightgrey;
+}
+
+.table tr:nth-child(3) {
+    background-color: #f0f0f0;
+}
+
+button {
+    background-color: white;
+    font-weight: 600;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 2px 10px;
+    cursor: pointer;
+    box-shadow: 0 0 1px 0.2px lightgrey;
+}
+
+
+
+
+
+
+
+
